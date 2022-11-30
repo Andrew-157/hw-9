@@ -1,2 +1,2 @@
-addressbook.db
+*.db
 test.py
